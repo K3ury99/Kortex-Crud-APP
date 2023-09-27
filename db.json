@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "empleados": [
+    {
+      "Nombre": "Keury",
+      "Apellido": "Ramírez",
+      "Correo": "keuryramirez10@gmail.com",
+      "FDN": "2004-10-03T04:00:00.000Z",
+      "Genero": "Hombre",
+      "Educacion": "Universitario",
+      "Compania": "CUST",
+      "Experiencia": 3,
+      "Paquete": 12,
+      "id": 1
+    },
+    {
+      "Nombre": "Jisell",
+      "Apellido": "Martínez",
+      "Correo": "test@gmail.com",
+      "FDN": "2006-07-17T04:00:00.000Z",
+      "Genero": "Mujer",
+      "Educacion": "Post-Universitario",
+      "Compania": "Fake",
+      "Experiencia": 6,
+      "Paquete": 12,
+      "id": 3
+    },
+    {
+      "Nombre": "Final",
+      "Apellido": "User",
+      "Correo": "final@gmail.com",
+      "FDN": "2023-09-03T04:00:00.000Z",
+      "Genero": "Otros",
+      "Educacion": "Universitario",
+      "Compania": "Company X",
+      "Experiencia": 123,
+      "Paquete": 123,
+      "id": 4
+    },
+    {
+      "Nombre": "Carlos",
+      "Apellido": "Villa",
+      "Correo": "ca@gmail.com",
+      "FDN": "2023-09-06T04:00:00.000Z",
+      "Genero": "Hombre",
+      "Educacion": "Post-Universitario",
+      "Compania": "Altice",
+      "Experiencia": 15,
+      "Paquete": 850,
+      "id": 5
+    }
+  ]
+}
